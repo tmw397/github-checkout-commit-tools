@@ -1,9 +1,1 @@
-# Example File
-
-This is an example file created using the `commit_and_push_file` tool.
-
-## Features
-
-- Create new files
-- Update existing files
-- Commit changes to GitHub
+IyBFeGFtcGxlIEZpbGUKClRoaXMgaXMgYW4gZXhhbXBsZSBmaWxlIGNyZWF0ZWQgdXNpbmcgdGhlIGBjb21taXRfYW5kX3B1c2hfZmlsZWAgdG9vbC4KCiMjIEZlYXR1cmVzCgotIENyZWF0ZSBuZXcgZmlsZXMKLSBVcGRhdGUgZXhpc3RpbmcgZmlsZXMKLSBDb21taXQgY2hhbmdlcyB0byBHaXRIdWIKCiMjIFVwZGF0ZWQKClRoaXMgZmlsZSB3YXMgdXBkYXRlZCB0byB0ZXN0IHRoZSBmaXggZm9yIHRoZSBjb21taXQgbWVzc2FnZSBpc3N1ZS4K
