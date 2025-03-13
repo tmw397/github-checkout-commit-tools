@@ -12,3 +12,7 @@ This repository demonstrates the new checkout and commit tools for the GitHub MC
 ## Usage
 
 These tools can be used with the GitHub MCP server to perform Git operations directly from Claude.
+
+## Example
+
+This line was added using the `commit_and_push_file` tool!
